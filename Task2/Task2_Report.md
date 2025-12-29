@@ -26,11 +26,13 @@
 | **ИТОГО (все категории)** | **276** | **8** | **81** | **365** | **75.6%** |
 
 ### Визуализация данных 
-[Матрица частота/критичность](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_frequency_criticality_matrix.png)
+![Матрица частота/критичность](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_frequency_criticality_matrix.png)
 
-Результат получен с помощью [python-скрипта](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Script_for_Scatter_Plot.ipynb)
+
 
 *Рисунок 1: Матрица приоритезации проблем по частоте упоминаний и доле негатива*
+
+Результат получен с помощью [python-скрипта](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Script_for_Scatter_Plot.ipynb)
 
 ### Ключевые выводы:
 
