@@ -6,5 +6,5 @@
 * [Промпты]() 
 
 ## Этап 1: Обогощение данных
-* [Результат обогащение данных: таблицы по тональности отзывов](https://github.com/VladKoretski/AIEducation/blob/main/Task2_total_table.md)  
-* [Результат обогащение данных: категорирование в формате json](https://github.com/VladKoretski/AIEducation/blob/main/Task2_total_table.md)
+* [Результат обогащение данных: таблицы по тональности отзывов](https://github.com/VladKoretski/AIEducation/blob/main/Task2_total_table.md) 
+* [Результат обогащение данных: категорирование в формате json](https://github.com/VladKoretski/AIEducation/blob/main/Task2_json_file)
