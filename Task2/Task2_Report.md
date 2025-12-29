@@ -3,7 +3,7 @@
 Исходный файл для анализа: [Отзывы](https://docs.google.com/spreadsheets/d/17DeaqOKpMdLIJUri9SoUqeGiu_IEIZEyespBRbYMOAU/edit?usp=sharing)  
   
 * Инструмент ИИ: Chat DeepSeek  
-* [Промпты]() 
+* [Промпты](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_prompts.md) 
 
 ## Этап 1: Обогощение данных
 * [Результат обогащение данных: таблицы по тональности отзывов](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_total_table.md) 
