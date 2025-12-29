@@ -11,7 +11,7 @@
 * [Результат обогащение данных: категорирование в формате json](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_json_file)
 
 ## Этап 2: Агрегация данных
-* [Результат агрегации данных](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Data_Agregation)  
+* [Результат агрегации данных](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Data_Agregation.md)  
 
 ### Сводная таблица тональности отзывов по категориям
 
