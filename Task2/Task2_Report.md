@@ -10,7 +10,7 @@
 * [Результат обогащение данных: категорирование в формате json](https://github.com/VladKoretski/AIEducation/blob/main/Task2_json_file)
 
 ## Этап 2: Агрегация данных
-* [Результат агрегации данных]()
+* [Результат агрегации данных](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Data_Agregation)  
 
 ### Сводная таблица тональности отзывов по категориям
 
@@ -26,8 +26,7 @@
 | **ИТОГО (все категории)** | **276** | **8** | **81** | **365** | **75.6%** |
 
 ### Визуализация данных 
-<img width="513" height="365" alt="image" src="https://github.com/user-attachments/assets/46bf0586-fb51-4d79-976e-9cd67372ee96" />
-<Figure size 640x480 with 0 Axes>
+[Матрица частота/критичность]()
 
 *Рисунок 1: Матрица приоритезации проблем по частоте упоминаний и доле негатива*
 
