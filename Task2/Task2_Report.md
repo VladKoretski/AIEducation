@@ -6,8 +6,8 @@
 * [Промпты]() 
 
 ## Этап 1: Обогощение данных
-* [Результат обогащение данных: таблицы по тональности отзывов](https://github.com/VladKoretski/AIEducation/blob/main/Task2_total_table.md) 
-* [Результат обогащение данных: категорирование в формате json](https://github.com/VladKoretski/AIEducation/blob/main/Task2_json_file)
+* [Результат обогащение данных: таблицы по тональности отзывов](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_total_table.md) 
+* [Результат обогащение данных: категорирование в формате json](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_json_file)
 
 ## Этап 2: Агрегация данных
 * [Результат агрегации данных](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Data_Agregation)  
@@ -27,9 +27,6 @@
 
 ### Визуализация данных 
 ![Матрица частота/критичность](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_frequency_criticality_matrix.png)
-
-
-
 *Рисунок 1: Матрица приоритезации проблем по частоте упоминаний и доле негатива. Результат получен с помощью [python-скрипта](https://github.com/VladKoretski/AIEducation/blob/main/Task2/Task2_Script_for_Scatter_Plot.ipynb)*
 
 Квадранты матрицы:
