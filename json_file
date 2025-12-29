@@ -1,1 +1,3260 @@
-JSON
+```json
+[
+  {
+    "number": 1,
+    "feedback_short": "Критика новой корзины и общего функционала после обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неудобная корзина, нечитаемые шрифты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 2,
+    "feedback_short": "Жалоба на мелкие шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Мелкие нечитаемые шрифты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 3,
+    "feedback_short": "Пропала история заказов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Отсутствие истории заказов",
+    "has_sarcasm": false
+  },
+  {
+    "number": 4,
+    "feedback_short": "Тормоза при прокрутке каталога",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Тормозит при скроллинге",
+    "has_sarcasm": false
+  },
+  {
+    "number": 5,
+    "feedback_short": "Кнопка \"Оформить заказ\" не работает",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Кнопка не нажимается",
+    "has_sarcasm": false
+  },
+  {
+    "number": 6,
+    "feedback_short": "Плохая работа поиска",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неадекватный поиск товаров",
+    "has_sarcasm": false
+  },
+  {
+    "number": 7,
+    "feedback_short": "Критика новой корзины",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Непонятное управление корзиной",
+    "has_sarcasm": false
+  },
+  {
+    "number": 8,
+    "feedback_short": "Жалоба на мелкие шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Слишком мелкие шрифты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 9,
+    "feedback_short": "Неудобная навигация по категориям",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Хаотичная навигация, потеря товаров",
+    "has_sarcasm": false
+  },
+  {
+    "number": 10,
+    "feedback_short": "Тормоза при скроллинге",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Лагает при скроллинге",
+    "has_sarcasm": false
+  },
+  {
+    "number": 11,
+    "feedback_short": "Кнопка оплаты неактивна",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Серая неактивная кнопка оплаты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 12,
+    "feedback_short": "Требование вернуть историю заказов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Отсутствие истории заказов",
+    "has_sarcasm": false
+  },
+  {
+    "number": 13,
+    "feedback_short": "Критика нового дизайна",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Аляпистый неудобный дизайн",
+    "has_sarcasm": true
+  },
+  {
+    "number": 14,
+    "feedback_short": "Слетает фильтр по скидкам",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Сброс фильтра по скидкам",
+    "has_sarcasm": false
+  },
+  {
+    "number": 15,
+    "feedback_short": "Неудобное добавление в избранное",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Сложное добавление в избранное",
+    "has_sarcasm": false
+  },
+  {
+    "number": 16,
+    "feedback_short": "Резкая критика интерфейса",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Непонятный интерфейс",
+    "has_sarcasm": false
+  },
+  {
+    "number": 17,
+    "feedback_short": "Тормоза при скроллинге каталога",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Тормозит при скроллинге каталога",
+    "has_sarcasm": false
+  },
+  {
+    "number": 18,
+    "feedback_short": "Требование вернуть старую корзину",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неудобная корзина",
+    "has_sarcasm": false
+  },
+  {
+    "number": 19,
+    "feedback_short": "Пропала история покупок",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Отсутствие истории покупок",
+    "has_sarcasm": false
+  },
+  {
+    "number": 20,
+    "feedback_short": "Требование увеличить шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Мелкие шрифты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 21,
+    "feedback_short": "Не работает кнопка оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Кнопка оплаты не работает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 22,
+    "feedback_short": "Плохой поиск, нелогичные категории",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нелогичный поиск и категории",
+    "has_sarcasm": false
+  },
+  {
+    "number": 23,
+    "feedback_short": "Приложение стало медленным",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Медленная работа приложения",
+    "has_sarcasm": false
+  },
+  {
+    "number": 24,
+    "feedback_short": "Общая критика обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Обновление все испортило",
+    "has_sarcasm": false
+  },
+  {
+    "number": 25,
+    "feedback_short": "Критика больших баннеров",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Огромные мешающие баннеры",
+    "has_sarcasm": false
+  },
+  {
+    "number": 26,
+    "feedback_short": "Неактивная кнопка оплаты, молчащая поддержка",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неактивная кнопка оплаты, нет ответа поддержки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 27,
+    "feedback_short": "Пропал раздел с любимыми товарами",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Исчез раздел любимых товаров",
+    "has_sarcasm": false
+  },
+  {
+    "number": 28,
+    "feedback_short": "Неудобное редактирование заказа в корзине",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Сложное редактирование корзины",
+    "has_sarcasm": false
+  },
+  {
+    "number": 29,
+    "feedback_short": "Резкая критика обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Сложный и запутанный интерфейс",
+    "has_sarcasm": false
+  },
+  {
+    "number": 30,
+    "feedback_short": "Потратил время, ушел к конкурентам",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Долгое освоение интерфейса",
+    "has_sarcasm": false
+  },
+  {
+    "number": 31,
+    "feedback_short": "Опоздание курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер опоздал, не предупредил",
+    "has_sarcasm": false
+  },
+  {
+    "number": 32,
+    "feedback_short": "Перепутаны продукты в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Подмена товаров в заказе",
+    "has_sarcasm": false
+  },
+  {
+    "number": 33,
+    "feedback_short": "Поврежденные овощи",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Помятые и испорченные овощи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 34,
+    "feedback_short": "Курьер перепутал адрес",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер ошибся адресом",
+    "has_sarcasm": false
+  },
+  {
+    "number": 35,
+    "feedback_short": "Нет связи с курьером",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Невозможно отследить курьера",
+    "has_sarcasm": false
+  },
+  {
+    "number": 36,
+    "feedback_short": "Растаявшие замороженные продукты",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Нарушены условия хранения, нет термосумки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 37,
+    "feedback_short": "Некорректная доставка до двери",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер не доставил до двери",
+    "has_sarcasm": false
+  },
+  {
+    "number": 38,
+    "feedback_short": "Опоздание курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, нет извинений",
+    "has_sarcasm": false
+  },
+  {
+    "number": 39,
+    "feedback_short": "Просроченный продукт",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Просроченный йогурт",
+    "has_sarcasm": false
+  },
+  {
+    "number": 40,
+    "feedback_short": "Неполный заказ, проблемы с поддержкой",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не хватает товаров, поддержка не отвечает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 41,
+    "feedback_short": "Грубость курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Грубое поведение курьера",
+    "has_sarcasm": false
+  },
+  {
+    "number": 42,
+    "feedback_short": "Недовес товара",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Неправильное количество товара",
+    "has_sarcasm": false
+  },
+  {
+    "number": 43,
+    "feedback_short": "Перепутан заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли чужой заказ",
+    "has_sarcasm": false
+  },
+  {
+    "number": 44,
+    "feedback_short": "Гнилые овощи",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Недоброкачественные овощи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 45,
+    "feedback_short": "Курьер не нашел адрес",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер не смог найти адрес",
+    "has_sarcasm": false
+  },
+  {
+    "number": 46,
+    "feedback_short": "Сильное опоздание доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка к 11 вечера",
+    "has_sarcasm": true
+  },
+  {
+    "number": 47,
+    "feedback_short": "Забытый товар в заказе",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не положили хлеб",
+    "has_sarcasm": false
+  },
+  {
+    "number": 48,
+    "feedback_short": "Разлитый продукт в пакете",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Разлитое молоко испортило заказ",
+    "has_sarcasm": false
+  },
+  {
+    "number": 49,
+    "feedback_short": "Опоздание доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка позже назначенного времени",
+    "has_sarcasm": false
+  },
+  {
+    "number": 50,
+    "feedback_short": "Отсутствие отслеживания курьера на карте",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет трекинга курьера на карте",
+    "has_sarcasm": false
+  },
+  {
+    "number": 51,
+    "feedback_short": "Перепутан заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли чужой заказ",
+    "has_sarcasm": false
+  },
+  {
+    "number": 52,
+    "feedback_short": "Разбитые яйца",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Поврежденная упаковка, разбитые яйца",
+    "has_sarcasm": false
+  },
+  {
+    "number": 53,
+    "feedback_short": "Опоздание курьера, без извинений",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, нет извинений",
+    "has_sarcasm": false
+  },
+  {
+    "number": 54,
+    "feedback_short": "Опоздание доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка позже назначенного утра",
+    "has_sarcasm": false
+  },
+  {
+    "number": 55,
+    "feedback_short": "Нет связи с курьером",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Телефон курьера выключен",
+    "has_sarcasm": false
+  },
+  {
+    "number": 56,
+    "feedback_short": "Вылет приложения при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Вылет на этапе оплаты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 57,
+    "feedback_short": "Проблемы со входом в аккаунт",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка входа, сброс пароля не работает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 58,
+    "feedback_short": "Ошибка сервера 502",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Частые ошибки 502 Bad Gateway",
+    "has_sarcasm": false
+  },
+  {
+    "number": 59,
+    "feedback_short": "Ошибка оплаты по карте",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не проходит оплата картой",
+    "has_sarcasm": false
+  },
+  {
+    "number": 60,
+    "feedback_short": "Приложение не запускается",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Белый экран при запуске",
+    "has_sarcasm": false
+  },
+  {
+    "number": 61,
+    "feedback_short": "Ошибка при привязке карты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неизвестная ошибка при привязке карты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 62,
+    "feedback_short": "Вылет приложения при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Вылет на этапе оплаты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 63,
+    "feedback_short": "Не работает вход через соцсети",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неактивная кнопка входа через соцсети",
+    "has_sarcasm": false
+  },
+  {
+    "number": 64,
+    "feedback_short": "Ошибка сервера 502",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка 502, нельзя зайти",
+    "has_sarcasm": false
+  },
+  {
+    "number": 65,
+    "feedback_short": "Зависание при добавлении в корзину",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение зависает при добавлении товара",
+    "has_sarcasm": false
+  },
+  {
+    "number": 66,
+    "feedback_short": "Проблема с оплатой картой \"Мир\"",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не проходит оплата картой \"Мир\"",
+    "has_sarcasm": false
+  },
+  {
+    "number": 67,
+    "feedback_short": "Вылет из аккаунта и проблема со входом",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Самовольный выход из аккаунта",
+    "has_sarcasm": false
+  },
+  {
+    "number": 68,
+    "feedback_short": "Беспричинные вылеты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение вылетает без причины",
+    "has_sarcasm": false
+  },
+  {
+    "number": 69,
+    "feedback_short": "Вечная загрузка при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Зависание на этапе оплаты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 70,
+    "feedback_short": "Ошибка сервера",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка сервера",
+    "has_sarcasm": true
+  },
+  {
+    "number": 71,
+    "feedback_short": "Не работает промокод",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод не найден, подозрение на обман",
+    "has_sarcasm": true
+  },
+  {
+    "number": 72,
+    "feedback_short": "Завышенные цены",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены выше, чем в магазине",
+    "has_sarcasm": false
+  },
+  {
+    "number": 73,
+    "feedback_short": "Благодарность за акцию",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 74,
+    "feedback_short": "Скрытый платеж за сборку",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Непредвиденная плата за сборку",
+    "has_sarcasm": false
+  },
+  {
+    "number": 75,
+    "feedback_short": "Не сработавший промокод, медленная поддержка",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод не сработал, долгий ответ поддержки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 76,
+    "feedback_short": "Завышенные цены на овощи",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Высокие цены на овощи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 77,
+    "feedback_short": "Благодарность за акцию",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 78,
+    "feedback_short": "Платная доставка при большом заказе",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Отмена бесплатной доставки от 2000р",
+    "has_sarcasm": false
+  },
+  {
+    "number": 79,
+    "feedback_short": "Рост цен",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Постоянный рост цен",
+    "has_sarcasm": false
+  },
+  {
+    "number": 80,
+    "feedback_short": "Не сработавший промокод",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промик не сработал",
+    "has_sarcasm": false
+  },
+  {
+    "number": 81,
+    "feedback_short": "Положительный отзыв о доставке и качестве",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 82,
+    "feedback_short": "Похвала за ассортимент",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 83,
+    "feedback_short": "Похвала вежливому курьеру",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 84,
+    "feedback_short": "Благодарность за сервис в трудной ситуации",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 85,
+    "feedback_short": "Похвала как лучшему сервису",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 86,
+    "feedback_short": "Удобное приложение",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 87,
+    "feedback_short": "Похвала качеству и упаковке",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 88,
+    "feedback_short": "Общая положительная оценка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 89,
+    "feedback_short": "Благодарность курьеру за помощь",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 90,
+    "feedback_short": "Рекомендация сервиса",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 91,
+    "feedback_short": "Похвала пунктуальности",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 92,
+    "feedback_short": "Похвала ассортименту и ценам",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 93,
+    "feedback_short": "Похвала курьеру за вежливость",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 94,
+    "feedback_short": "Общая благодарность",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 95,
+    "feedback_short": "Идеальная оценка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 96,
+    "feedback_short": "Долгосрочная лояльность, мелкие проблемы решались",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 97,
+    "feedback_short": "Положительная оценка сервиса",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 98,
+    "feedback_short": "Похвала скорости",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 99,
+    "feedback_short": "Лучшее приложение",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 100,
+    "feedback_short": "Благодарность за экономию времени",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 101,
+    "feedback_short": "Общая благодарность за сервис",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 102,
+    "feedback_short": "Вылет при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Вылет при переходе к оплате",
+    "has_sarcasm": false
+  },
+  {
+    "number": 103,
+    "feedback_short": "Опоздание курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, нет звонка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 104,
+    "feedback_short": "Критика нового дизайна и шрифтов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Мелкие шрифты нового дизайна",
+    "has_sarcasm": false
+  },
+  {
+    "number": 105,
+    "feedback_short": "Благодарность за акцию",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 106,
+    "feedback_short": "Перепутан продукт в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Подмена фарша в заказе",
+    "has_sarcasm": false
+  },
+  {
+    "number": 107,
+    "feedback_short": "Проблема со входом в аккаунт",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неверный пароль при верном вводе",
+    "has_sarcasm": false
+  },
+  {
+    "number": 108,
+    "feedback_short": "Положительный отзыв о скорости и качестве",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 109,
+    "feedback_short": "Резкая негативная оценка",
+    "category": "Прочее",
+    "sentiment": "Негативный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 110,
+    "feedback_short": "Тормоза при пролистывании",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Тормозит при скроллинге каталога",
+    "has_sarcasm": false
+  },
+  {
+    "number": 111,
+    "feedback_short": "Похвала курьеру за помощь",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 112,
+    "feedback_short": "Не сработавший промокод",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод на скидку не применился",
+    "has_sarcasm": false
+  },
+  {
+    "number": 113,
+    "feedback_short": "Ошибка сервера 502",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка 502",
+    "has_sarcasm": false
+  },
+  {
+    "number": 114,
+    "feedback_short": "Поврежденные помидоры",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Мятые помидоры",
+    "has_sarcasm": true
+  },
+  {
+    "number": 115,
+    "feedback_short": "Общая положительная оценка сервиса",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 116,
+    "feedback_short": "Вопрос про историю заказов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Исчезновение истории заказов",
+    "has_sarcasm": false
+  },
+  {
+    "number": 117,
+    "feedback_short": "Завышенные цены",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены выше, чем в супермаркете",
+    "has_sarcasm": false
+  },
+  {
+    "number": 118,
+    "feedback_short": "Просроченный продукт",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Просроченный творог",
+    "has_sarcasm": false
+  },
+  {
+    "number": 119,
+    "feedback_short": "Не нажимается кнопка оформления заказа",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Кнопка не нажимается",
+    "has_sarcasm": false
+  },
+  {
+    "number": 120,
+    "feedback_short": "Благодарность за пунктуальную доставку",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 121,
+    "feedback_short": "Проблема с оплатой картой",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не проходит оплата картой",
+    "has_sarcasm": false
+  },
+  {
+    "number": 122,
+    "feedback_short": "Курьер перепутал адрес",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер ошибся адресом",
+    "has_sarcasm": false
+  },
+  {
+    "number": 123,
+    "feedback_short": "Плохой поиск",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Поиск не находит обычные товары",
+    "has_sarcasm": false
+  },
+  {
+    "number": 124,
+    "feedback_short": "Похвала качеству и упаковке",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 125,
+    "feedback_short": "Зависание при оплате, списание денег",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Зависание при оплате, деньги списались, заказа нет",
+    "has_sarcasm": false
+  },
+  {
+    "number": 126,
+    "feedback_short": "Благодарность за скорость",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 127,
+    "feedback_short": "Неудобная корзина",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неудобная корзина",
+    "has_sarcasm": false
+  },
+  {
+    "number": 128,
+    "feedback_short": "Забытые товары в заказе",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не положили хлеб и молоко",
+    "has_sarcasm": false
+  },
+  {
+    "number": 129,
+    "feedback_short": "Лучший сервис",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 130,
+    "feedback_short": "Нет связи с курьером",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Телефон курьера выключен",
+    "has_sarcasm": false
+  },
+  {
+    "number": 131,
+    "feedback_short": "Ошибка при привязке карты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка при привязке новой карты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 132,
+    "feedback_short": "Платная сборка",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Добавилась платная сборка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 133,
+    "feedback_short": "Похвала вежливости курьера",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 134,
+    "feedback_short": "Вылет приложения при сборке корзины",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Вылет в процессе сборки корзины",
+    "has_sarcasm": false
+  },
+  {
+    "number": 135,
+    "feedback_short": "Опоздание курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, нет извинений и предупреждения",
+    "has_sarcasm": false
+  },
+  {
+    "number": 136,
+    "feedback_short": "Похвала сборщикам",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 137,
+    "feedback_short": "Требование увеличить шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Мелкие нечитаемые шрифты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 138,
+    "feedback_short": "Перепутан заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли чужой пакет",
+    "has_sarcasm": false
+  },
+  {
+    "number": 139,
+    "feedback_short": "Общая положительная оценка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 140,
+    "feedback_short": "Неудобная навигация после обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Перемешанные категории",
+    "has_sarcasm": false
+  },
+  {
+    "number": 141,
+    "feedback_short": "Не сработавший промокод на доставку",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод на бесплатную доставку не сработал",
+    "has_sarcasm": false
+  },
+  {
+    "number": 142,
+    "feedback_short": "Похвала ассортименту",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 143,
+    "feedback_short": "Приложение не запускается",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Белый экран при запуске",
+    "has_sarcasm": false
+  },
+  {
+    "number": 144,
+    "feedback_short": "Разбитые яйца",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Разбитые яйца в заказе",
+    "has_sarcasm": false
+  },
+  {
+    "number": 145,
+    "feedback_short": "Вопрос о работе поддержки",
+    "category": "Прочее",
+    "sentiment": "Нейтральный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 146,
+    "feedback_short": "Рекомендация сервиса",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 147,
+    "feedback_short": "Лаги при скроллинге",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Постоянные лаги при скроллинге",
+    "has_sarcasm": false
+  },
+  {
+    "number": 148,
+    "feedback_short": "Благодарность за экономию времени",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 149,
+    "feedback_short": "Курьер не нашел подъезд",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Проблемы с нахождением адреса",
+    "has_sarcasm": false
+  },
+  {
+    "number": 150,
+    "feedback_short": "Ошибка оплаты, отмена заказа",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка оплаты, отмена заказа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 151,
+    "feedback_short": "Пропало \"Избранное\"",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Исчез раздел избранного",
+    "has_sarcasm": false
+  },
+  {
+    "number": 152,
+    "feedback_short": "Опоздание доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Постоянные опоздания",
+    "has_sarcasm": true
+  },
+  {
+    "number": 153,
+    "feedback_short": "Положительный отзыв о качестве и курьере",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 154,
+    "feedback_short": "Резкая критика обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Ужасное обновление",
+    "has_sarcasm": false
+  },
+  {
+    "number": 155,
+    "feedback_short": "Неполный заказ, списание денег",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не хватает товаров, деньги списаны",
+    "has_sarcasm": false
+  },
+  {
+    "number": 156,
+    "feedback_short": "Проблема со входом в профиль",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не могу войти в профиль",
+    "has_sarcasm": false
+  },
+  {
+    "number": 157,
+    "feedback_short": "Завышенные цены на овощи и фрукты",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Завышенные цены",
+    "has_sarcasm": false
+  },
+  {
+    "number": 158,
+    "feedback_short": "Похвала пунктуальности",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 159,
+    "feedback_short": "Неактивная кнопка оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Кнопка оплаты неактивна",
+    "has_sarcasm": false
+  },
+  {
+    "number": 160,
+    "feedback_short": "Растаявшее мороженое",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Нарушены условия доставки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 161,
+    "feedback_short": "Общая положительная оценка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 162,
+    "feedback_short": "Критика новой корзины",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Сложное редактирование корзины",
+    "has_sarcasm": false
+  },
+  {
+    "number": 163,
+    "feedback_short": "Ошибка сервера 502",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Снова ошибка 502",
+    "has_sarcasm": false
+  },
+  {
+    "number": 164,
+    "feedback_short": "Некорректная доставка",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Заказ оставлен у подъезда",
+    "has_sarcasm": false
+  },
+  {
+    "number": 165,
+    "feedback_short": "Благодарность за работу",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 166,
+    "feedback_short": "Вылет приложения",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение вылетает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 167,
+    "feedback_short": "Ранняя доставка при отсутствии дома",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка раньше, заказчика нет дома",
+    "has_sarcasm": false
+  },
+  {
+    "number": 168,
+    "feedback_short": "Требование вернуть историю покупок",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Отсутствие истории покупок",
+    "has_sarcasm": false
+  },
+  {
+    "number": 169,
+    "feedback_short": "Проблема с платежом",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Проблема с платежом на стороне сервиса",
+    "has_sarcasm": false
+  },
+  {
+    "number": 170,
+    "feedback_short": "Похвала вежливому курьеру",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 171,
+    "feedback_short": "Сильное опоздание",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание на 2 часа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 172,
+    "feedback_short": "Медленная работа после обновления",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Очень медленная работа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 173,
+    "feedback_short": "Положительный отзыв о качестве",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 174,
+    "feedback_short": "Проблема со входом",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Пароль не подходит",
+    "has_sarcasm": false
+  },
+  {
+    "number": 175,
+    "feedback_short": "Забытый товар в заказе",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не положили соус",
+    "has_sarcasm": false
+  },
+  {
+    "number": 176,
+    "feedback_short": "Похвала работе",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 177,
+    "feedback_short": "Поврежденные фрукты",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Снова мятые фрукты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 178,
+    "feedback_short": "Высокая стоимость доставки",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Дорогая доставка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 179,
+    "feedback_short": "Краш при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение крашнулось при оплате",
+    "has_sarcasm": false
+  },
+  {
+    "number": 180,
+    "feedback_short": "Общая благодарность",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 181,
+    "feedback_short": "Грубость курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Грубое поведение курьера",
+    "has_sarcasm": false
+  },
+  {
+    "number": 182,
+    "feedback_short": "Резкая критика нового интерфейса",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Новый интерфейс - провал",
+    "has_sarcasm": false
+  },
+  {
+    "number": 183,
+    "feedback_short": "Благодарность за скидки",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 184,
+    "feedback_short": "Проблема с оплатой",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Оплата не работает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 185,
+    "feedback_short": "Лучший сервис",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 186,
+    "feedback_short": "Задержка доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка опоздала на час",
+    "has_sarcasm": false
+  },
+  {
+    "number": 187,
+    "feedback_short": "Неудобный поиск",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неудобный поиск товаров",
+    "has_sarcasm": false
+  },
+  {
+    "number": 188,
+    "feedback_short": "Перепутан товар в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли не тот йогурт",
+    "has_sarcasm": false
+  },
+  {
+    "number": 189,
+    "feedback_short": "Похвала скорости и качеству",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 190,
+    "feedback_short": "Проблема со входом в приложение",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Снова не могу войти",
+    "has_sarcasm": false
+  },
+  {
+    "number": 191,
+    "feedback_short": "Жалоба на мелкие шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Очень мелкие шрифты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 192,
+    "feedback_short": "Похвала курьеру за вежливость",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 193,
+    "feedback_short": "Растаявшая заморозка",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Вся заморозка растаяла",
+    "has_sarcasm": false
+  },
+  {
+    "number": 194,
+    "feedback_short": "Вылет приложения",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение вылетает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 195,
+    "feedback_short": "Благодарность за вкусные продукты",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 196,
+    "feedback_short": "Критика корзины",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Ужасно неудобная корзина",
+    "has_sarcasm": false
+  },
+  {
+    "number": 197,
+    "feedback_short": "Опоздание, но с извинениями",
+    "category": "Проблема с доставкой",
+    "sentiment": "Нейтральный",
+    "problem_summary": "Опоздание, но позвонили и извинились",
+    "has_sarcasm": false
+  },
+  {
+    "number": 198,
+    "feedback_short": "Высокие цены",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Кусающиеся цены",
+    "has_sarcasm": false
+  },
+  {
+    "number": 199,
+    "feedback_short": "Проблема с оплатой",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не работает оплата",
+    "has_sarcasm": false
+  },
+  {
+    "number": 200,
+    "feedback_short": "Общая похвала",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 201,
+    "feedback_short": "Порванный пакет, испорченный продукт",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Порванный пакет, разлитое молоко",
+    "has_sarcasm": false
+  },
+  {
+    "number": 202,
+    "feedback_short": "Зависание при долгом выборе товаров",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение виснет при долгом выборе",
+    "has_sarcasm": false
+  },
+  {
+    "number": 203,
+    "feedback_short": "Похвала вежливому курьеру",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 204,
+    "feedback_short": "Не сработавший приветственный промокод",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод для нового пользователя не сработал",
+    "has_sarcasm": false
+  },
+  {
+    "number": 205,
+    "feedback_short": "Похвала как идеальному сервису",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 206,
+    "feedback_short": "Вечная загрузка при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не завершается оплата",
+    "has_sarcasm": false
+  },
+  {
+    "number": 207,
+    "feedback_short": "Отсутствие трекинга курьера",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет отслеживания курьера на карте",
+    "has_sarcasm": false
+  },
+  {
+    "number": 208,
+    "feedback_short": "Резкая критика редизайна",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Отвратительный редизайн",
+    "has_sarcasm": false
+  },
+  {
+    "number": 209,
+    "feedback_short": "Нарушение условий хранения заморозки",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Неоднократно размороженная рыба",
+    "has_sarcasm": false
+  },
+  {
+    "number": 210,
+    "feedback_short": "Похвала ассортименту",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 211,
+    "feedback_short": "Ошибка сервера",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Снова ошибка сервера",
+    "has_sarcasm": true
+  },
+  {
+    "number": 212,
+    "feedback_short": "Опоздание, испорченное мороженое",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, мороженое растаяло",
+    "has_sarcasm": false
+  },
+  {
+    "number": 213,
+    "feedback_short": "Общая положительная оценка удобства",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 214,
+    "feedback_short": "Пропала кнопка повтора заказа",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Исчезла функция повтора заказа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 215,
+    "feedback_short": "Рост цен на бытовую химию",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены стали выше магазинных",
+    "has_sarcasm": false
+  },
+  {
+    "number": 216,
+    "feedback_short": "Проблема со входом через соцсеть",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка входа через соцсеть",
+    "has_sarcasm": false
+  },
+  {
+    "number": 217,
+    "feedback_short": "Перепутан заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли чужой заказ с подгузниками",
+    "has_sarcasm": false
+  },
+  {
+    "number": 218,
+    "feedback_short": "Общая положительная оценка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 219,
+    "feedback_short": "Критика шрифтов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Шрифты нечитаемы",
+    "has_sarcasm": false
+  },
+  {
+    "number": 220,
+    "feedback_short": "Забытый товар, потеря смысла доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не положили масло, пришлось идти в магазин",
+    "has_sarcasm": false
+  },
+  {
+    "number": 221,
+    "feedback_short": "Высокая оценка сервиса",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 222,
+    "feedback_short": "Вылет при открытии корзины",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Вылет при открытии корзины",
+    "has_sarcasm": false
+  },
+  {
+    "number": 223,
+    "feedback_short": "Некорректная доставка до двери",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер не поднялся на этаж",
+    "has_sarcasm": false
+  },
+  {
+    "number": 224,
+    "feedback_short": "Благодарность за выгодные скидки",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 225,
+    "feedback_short": "Плохой поиск",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неадекватные результаты поиска",
+    "has_sarcasm": false
+  },
+  {
+    "number": 226,
+    "feedback_short": "Проблема с отображением заказа после оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Деньги списались, заказ не появился",
+    "has_sarcasm": false
+  },
+  {
+    "number": 227,
+    "feedback_short": "Некорректное поведение курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер разбудил ребенка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 228,
+    "feedback_short": "Лучшая доставка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 229,
+    "feedback_short": "Тормоза при скролле",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ужасно тормозит при скролле",
+    "has_sarcasm": false
+  },
+  {
+    "number": 230,
+    "feedback_short": "Недовес товара",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Неправильное количество сока",
+    "has_sarcasm": false
+  },
+  {
+    "number": 231,
+    "feedback_short": "Общая благодарность",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 232,
+    "feedback_short": "Проблема с отвязкой карты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не могу отвязать старую карту",
+    "has_sarcasm": false
+  },
+  {
+    "number": 233,
+    "feedback_short": "Недобросовестная сборка заказа",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Грязные и побитые овощи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 234,
+    "feedback_short": "Долгосрочная лояльность",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 235,
+    "feedback_short": "Пропала история адресов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Исчезли сохраненные адреса",
+    "has_sarcasm": false
+  },
+  {
+    "number": 236,
+    "feedback_short": "Приложение не открывается",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение не открывается",
+    "has_sarcasm": false
+  },
+  {
+    "number": 237,
+    "feedback_short": "Ранняя доставка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 238,
+    "feedback_short": "Перепутан товар в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли не тот корм для животных",
+    "has_sarcasm": false
+  },
+  {
+    "number": 239,
+    "feedback_short": "Похвала вежливым курьерам",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 240,
+    "feedback_short": "Исчезновение бренда из ассортимента",
+    "category": "Прочее",
+    "sentiment": "Негативный",
+    "problem_summary": "Убрали любимый бренд молока",
+    "has_sarcasm": false
+  },
+  {
+    "number": 241,
+    "feedback_short": "Ошибка сервера 502",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка 502, как обычно",
+    "has_sarcasm": true
+  },
+  {
+    "number": 242,
+    "feedback_short": "Сильное опоздание",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Заказ на ужин привезли поздно вечером",
+    "has_sarcasm": false
+  },
+  {
+    "number": 243,
+    "feedback_short": "Нейтральная оценка",
+    "category": "Прочее",
+    "sentiment": "Нейтральный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 244,
+    "feedback_short": "Неактивная кнопка оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Кнопка оплаты неактивна",
+    "has_sarcasm": false
+  },
+  {
+    "number": 245,
+    "feedback_short": "Положительный отзыв о качестве и упаковке",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 246,
+    "feedback_short": "Неправильно посчитанная скидка",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Скидка по промокоду меньше обещанной",
+    "has_sarcasm": false
+  },
+  {
+    "number": 247,
+    "feedback_short": "Проблема со входом в профиль",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не могу зайти в профиль",
+    "has_sarcasm": false
+  },
+  {
+    "number": 248,
+    "feedback_short": "Ошибка доставки не к той квартире",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Заказ оставили соседям",
+    "has_sarcasm": false
+  },
+  {
+    "number": 249,
+    "feedback_short": "Общая нейтральная оценка",
+    "category": "Прочее",
+    "sentiment": "Нейтральный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 250,
+    "feedback_short": "Сброс фильтров в каталоге",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Фильтры постоянно сбрасываются",
+    "has_sarcasm": false
+  },
+  {
+    "number": 251,
+    "feedback_short": "Перепутан товар в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Подмена диетической колы",
+    "has_sarcasm": false
+  },
+  {
+    "number": 252,
+    "feedback_short": "Общая благодарность",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 253,
+    "feedback_short": "Вылет при вводе промокода",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Вылет при вводе промокода",
+    "has_sarcasm": false
+  },
+  {
+    "number": 254,
+    "feedback_short": "Резко негативная оценка",
+    "category": "Прочее",
+    "sentiment": "Негативный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 255,
+    "feedback_short": "Скрытая плата за пакеты",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Непредвиденная плата за пакеты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 256,
+    "feedback_short": "Похвала аккуратности курьера",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 257,
+    "feedback_short": "Приложение забыло данные для входа",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Сброс сохраненных логина и пароля",
+    "has_sarcasm": false
+  },
+  {
+    "number": 258,
+    "feedback_short": "Недоброкачественные авокадо",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Незрелые, каменные авокадо",
+    "has_sarcasm": false
+  },
+  {
+    "number": 259,
+    "feedback_short": "Резкая критика нового интерфейса",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Отвратительный интерфейс",
+    "has_sarcasm": false
+  },
+  {
+    "number": 260,
+    "feedback_short": "Похвала стабильности",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 261,
+    "feedback_short": "Проблема с оплатой картой",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Оплата картой не проходит",
+    "has_sarcasm": false
+  },
+  {
+    "number": 262,
+    "feedback_short": "Хамство курьера по телефону",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер нахамил по телефону",
+    "has_sarcasm": false
+  },
+  {
+    "number": 263,
+    "feedback_short": "Пожелание расширить ассортимент",
+    "category": "Прочее",
+    "sentiment": "Нейтральный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 264,
+    "feedback_short": "Благодарность за помощь мамам",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 265,
+    "feedback_short": "Критика чрезмерных уведомлений",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Слишком много уведомлений",
+    "has_sarcasm": false
+  },
+  {
+    "number": 266,
+    "feedback_short": "Разбитая банка, испорченный заказ",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Разбитая банка, все в рассоле",
+    "has_sarcasm": false
+  },
+  {
+    "number": 267,
+    "feedback_short": "Общая похвала",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 268,
+    "feedback_short": "Ограниченный выбор интервала доставки",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Только \"в течение дня\"",
+    "has_sarcasm": false
+  },
+  {
+    "number": 269,
+    "feedback_short": "Проблема со входом",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не могу войти",
+    "has_sarcasm": false
+  },
+  {
+    "number": 270,
+    "feedback_short": "Благодарность за акцию",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 271,
+    "feedback_short": "Опоздание с извинениями",
+    "category": "Проблема с доставкой",
+    "sentiment": "Нейтральный",
+    "problem_summary": "Опоздание, но вежливые извинения",
+    "has_sarcasm": false
+  },
+  {
+    "number": 272,
+    "feedback_short": "Постоянный рост цен",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены растут каждую неделю",
+    "has_sarcasm": false
+  },
+  {
+    "number": 273,
+    "feedback_short": "Лаги",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Опять лагает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 274,
+    "feedback_short": "Положительный отзыв о целостности заказа",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 275,
+    "feedback_short": "Неполный заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не хватает половины заказа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 276,
+    "feedback_short": "Ухудшение скорости работы приложения",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Стало работать медленнее",
+    "has_sarcasm": false
+  },
+  {
+    "number": 277,
+    "feedback_short": "Краткая благодарность",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 278,
+    "feedback_short": "Отсутствие функции чаевых",
+    "category": "UX/UI",
+    "sentiment": "Нейтральный",
+    "problem_summary": "Нет чаевых через приложение",
+    "has_sarcasm": false
+  },
+  {
+    "number": 279,
+    "feedback_short": "Перепутан товар в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли не тот сыр",
+    "has_sarcasm": false
+  },
+  {
+    "number": 280,
+    "feedback_short": "Краш при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Краш при оплате",
+    "has_sarcasm": false
+  },
+  {
+    "number": 281,
+    "feedback_short": "Общая похвала",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 282,
+    "feedback_short": "Некорректная доставка, отмена",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер не дождался, статус \"не удалось доставить\"",
+    "has_sarcasm": false
+  },
+  {
+    "number": 283,
+    "feedback_short": "Требование вернуть старую версию",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Верните старую версию",
+    "has_sarcasm": false
+  },
+  {
+    "number": 284,
+    "feedback_short": "Благодарность за доставку тяжелых товаров",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 285,
+    "feedback_short": "Недействительный промокод",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод не действителен",
+    "has_sarcasm": false
+  },
+  {
+    "number": 286,
+    "feedback_short": "Проблемы с поиском товаров в каталоге",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Не могу найти любимые товары",
+    "has_sarcasm": false
+  },
+  {
+    "number": 287,
+    "feedback_short": "Общая положительная оценка",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 288,
+    "feedback_short": "Проблема со сдачей у курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "У курьера не нашлось сдачи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 289,
+    "feedback_short": "Быстрая разрядка батареи",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Приложение быстро разряжает телефон",
+    "has_sarcasm": false
+  },
+  {
+    "number": 290,
+    "feedback_short": "Благодарность за упрощение жизни",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 291,
+    "feedback_short": "Отмена заказа без объяснений",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Заказ отменили без причин",
+    "has_sarcasm": false
+  },
+  {
+    "number": 292,
+    "feedback_short": "Резко негативная оценка",
+    "category": "Прочее",
+    "sentiment": "Негативный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 293,
+    "feedback_short": "Общая оценка с упоминанием косяков",
+    "category": "Прочее",
+    "sentiment": "Нейтральный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 294,
+    "feedback_short": "Теплый кефир",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Нарушены условия хранения",
+    "has_sarcasm": false
+  },
+  {
+    "number": 295,
+    "feedback_short": "Общая благодарность бренду",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 296,
+    "feedback_short": "Невозможность изменить адрес в оформленном заказе",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нельзя поменять адрес доставки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 297,
+    "feedback_short": "Постоянные ошибки сервера",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Частые ошибки сервера",
+    "has_sarcasm": false
+  },
+  {
+    "number": 298,
+    "feedback_short": "Положительный отзыв о качестве",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 299,
+    "feedback_short": "Долгая доставка",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка стала очень долгой",
+    "has_sarcasm": false
+  },
+  {
+    "number": 300,
+    "feedback_short": "Общая похвала",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 301,
+    "feedback_short": "Катастрофическая критика обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Все тормозит, ничего не найти",
+    "has_sarcasm": false
+  },
+  {
+    "number": 302,
+    "feedback_short": "Требование вернуть старый дизайн",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Микроскопические шрифты, неудобно",
+    "has_sarcasm": false
+  },
+  {
+    "number": 303,
+    "feedback_short": "Пропала история заказов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Исчезла нужная функция повтора",
+    "has_sarcasm": false
+  },
+  {
+    "number": 304,
+    "feedback_short": "Лаги при скроллинге",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Невыносимые лаги при скроллинге",
+    "has_sarcasm": false
+  },
+  {
+    "number": 305,
+    "feedback_short": "Неактивная кнопка оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Серая неработающая кнопка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 306,
+    "feedback_short": "Ужасный поиск",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Неадекватные результаты поиска",
+    "has_sarcasm": true
+  },
+  {
+    "number": 307,
+    "feedback_short": "Критика новой корзины",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Сложное изменение количества",
+    "has_sarcasm": false
+  },
+  {
+    "number": 308,
+    "feedback_short": "Требование увеличить шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Шрифты мешают видеть корзину",
+    "has_sarcasm": false
+  },
+  {
+    "number": 309,
+    "feedback_short": "Хаотичная навигация",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Хаос из баннеров, нет категорий",
+    "has_sarcasm": false
+  },
+  {
+    "number": 310,
+    "feedback_short": "Сильные тормоза",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Ужасные тормоза, ожидание при каждом действии",
+    "has_sarcasm": false
+  },
+  {
+    "number": 311,
+    "feedback_short": "Неактивная кнопка оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неактивная кнопка, перезагрузка не помогает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 312,
+    "feedback_short": "Резкое требование вернуть историю заказов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Верните историю заказов",
+    "has_sarcasm": true
+  },
+  {
+    "number": 313,
+    "feedback_short": "Критика дизайна",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Детский дизайн, режущие глаз цвета",
+    "has_sarcasm": false
+  },
+  {
+    "number": 314,
+    "feedback_short": "Слетающие фильтры",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Фильтры сбрасываются через 2 секунды",
+    "has_sarcasm": false
+  },
+  {
+    "number": 315,
+    "feedback_short": "Сложное добавление в избранное",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Семь кругов ада для избранного",
+    "has_sarcasm": true
+  },
+  {
+    "number": 316,
+    "feedback_short": "Резко негативная оценка и удаление",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Ужасный интерфейс, удаляю",
+    "has_sarcasm": false
+  },
+  {
+    "number": 317,
+    "feedback_short": "Тормоза при скроллинге каталога",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Скроллинг превратился в пытку",
+    "has_sarcasm": false
+  },
+  {
+    "number": 318,
+    "feedback_short": "Непонятное управление корзиной",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Непонятно как удалить товар",
+    "has_sarcasm": false
+  },
+  {
+    "number": 319,
+    "feedback_short": "Отсутствие истории покупок",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет прошлых покупок для повторения",
+    "has_sarcasm": true
+  },
+  {
+    "number": 320,
+    "feedback_short": "Требование увеличить шрифты",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "НЕЧИТАЕМО",
+    "has_sarcasm": true
+  },
+  {
+    "number": 321,
+    "feedback_short": "Не работающая кнопка оплаты",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Кнопка оплаты НЕ РАБОТАЕТ",
+    "has_sarcasm": true
+  },
+  {
+    "number": 322,
+    "feedback_short": "Сломанный поиск и нелогичные категории",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Сломанный поиск, нелогичные категории",
+    "has_sarcasm": false
+  },
+  {
+    "number": 323,
+    "feedback_short": "Медленная и тяжелая работа",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Тяжелое и медленное приложение",
+    "has_sarcasm": false
+  },
+  {
+    "number": 324,
+    "feedback_short": "Требование отката обновления",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Обновление все испортило",
+    "has_sarcasm": false
+  },
+  {
+    "number": 325,
+    "feedback_short": "Критика рекламных баннеров",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Гигантские баннеры мешают просмотру",
+    "has_sarcasm": false
+  },
+  {
+    "number": 326,
+    "feedback_short": "Вопрос о неактивной кнопке оплаты и молчащей поддержке",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неактивная кнопка, поддержка молчит",
+    "has_sarcasm": false
+  },
+  {
+    "number": 327,
+    "feedback_short": "Пропал список любимых товаров",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Удалили список любимых товаров",
+    "has_sarcasm": false
+  },
+  {
+    "number": 328,
+    "feedback_short": "Невозможность редактировать корзину",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Невозможно редактировать заказ в корзине",
+    "has_sarcasm": false
+  },
+  {
+    "number": 329,
+    "feedback_short": "Критика интерфейса",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Запутанный и нелогичный интерфейс",
+    "has_sarcasm": false
+  },
+  {
+    "number": 330,
+    "feedback_short": "Потраченное время на борьбу с приложением",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "20 минут на освоение интерфейса",
+    "has_sarcasm": false
+  },
+  {
+    "number": 331,
+    "feedback_short": "Мелкие иконки",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Иконки стали слишком мелкими",
+    "has_sarcasm": false
+  },
+  {
+    "number": 332,
+    "feedback_short": "Неряшливый интерфейс",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Все съехало, неряшливо",
+    "has_sarcasm": false
+  },
+  {
+    "number": 333,
+    "feedback_short": "Требование вернуть старую версию",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Верните старую версию",
+    "has_sarcasm": false
+  },
+  {
+    "number": 334,
+    "feedback_short": "Критика отображения товаров плитками",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет списка товаров категории, только плитки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 335,
+    "feedback_short": "Не работающий поиск по ключевым словам",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Поиск по ключевым словам не работает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 336,
+    "feedback_short": "Медлительность приложения",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Медлительность вызывает раздражение",
+    "has_sarcasm": false
+  },
+  {
+    "number": 337,
+    "feedback_short": "Пропала кнопка быстрого повтора заказа",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет быстрого повтора заказа с главного экрана",
+    "has_sarcasm": false
+  },
+  {
+    "number": 338,
+    "feedback_short": "Критика корзины",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Десять нажатий для изменения количества",
+    "has_sarcasm": false
+  },
+  {
+    "number": 339,
+    "feedback_short": "Неинтуитивный интерфейс",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Абсолютно неинтуитивный интерфейс",
+    "has_sarcasm": false
+  },
+  {
+    "number": 340,
+    "feedback_short": "Угроза ухода клиентов",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Обновление растеряет клиентов",
+    "has_sarcasm": false
+  },
+  {
+    "number": 341,
+    "feedback_short": "Сильное опоздание курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание на 2 часа, обман о времени",
+    "has_sarcasm": false
+  },
+  {
+    "number": 342,
+    "feedback_short": "Перепутаны продукты в заказе",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Подмена нескольких товаров",
+    "has_sarcasm": false
+  },
+  {
+    "number": 343,
+    "feedback_short": "Поврежденные овощи",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Помятые помидоры, вялые огурцы",
+    "has_sarcasm": false
+  },
+  {
+    "number": 344,
+    "feedback_short": "Нет связи с курьером",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Невозможно связаться с курьером",
+    "has_sarcasm": false
+  },
+  {
+    "number": 345,
+    "feedback_short": "Курьер перепутал адрес",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Ошибка адреса, пришлось ловить курьера",
+    "has_sarcasm": false
+  },
+  {
+    "number": 346,
+    "feedback_short": "Растаявшие замороженные продукты",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет термосумки",
+    "has_sarcasm": true
+  },
+  {
+    "number": 347,
+    "feedback_short": "Некорректная доставка до двери",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Пакеты оставлены у подъезда без звонка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 348,
+    "feedback_short": "Опоздание",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, без извинений и предупреждения",
+    "has_sarcasm": true
+  },
+  {
+    "number": 349,
+    "feedback_short": "Просроченный продукт",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Кефир с истекшим сроком",
+    "has_sarcasm": false
+  },
+  {
+    "number": 350,
+    "feedback_short": "Неполный заказ, списание денег, нет связи с поддержкой",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не хватает товаров, деньги списаны, поддержка недоступна",
+    "has_sarcasm": false
+  },
+  {
+    "number": 351,
+    "feedback_short": "Грубость курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Грубое поведение, требование быстрой подписи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 352,
+    "feedback_short": "Недовес товара",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Вместо 1 кг - одна картофелина",
+    "has_sarcasm": true
+  },
+  {
+    "number": 353,
+    "feedback_short": "Перепутан заказ",
+    "category": "Проблема с доставка",
+    "sentiment": "Негативный",
+    "problem_summary": "Привезли детские товары по ошибке",
+    "has_sarcasm": false
+  },
+  {
+    "number": 354,
+    "feedback_short": "Гнилые овощи",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Отвратительные гнилые овощи",
+    "has_sarcasm": false
+  },
+  {
+    "number": 355,
+    "feedback_short": "Курьер не нашел адрес",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Подробный комментарий не помог, 6 звонков",
+    "has_sarcasm": false
+  },
+  {
+    "number": 356,
+    "feedback_short": "Сильное опоздание к мероприятию",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка к 11 вечера, гости ушли",
+    "has_sarcasm": true
+  },
+  {
+    "number": 357,
+    "feedback_short": "Забытый товар",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не положили хлеб",
+    "has_sarcasm": false
+  },
+  {
+    "number": 358,
+    "feedback_short": "Разлитый сок в пакете",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Разлитый сок испортил другие продукты",
+    "has_sarcasm": false
+  },
+  {
+    "number": 359,
+    "feedback_short": "Опоздание доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка позже назначенного интервала",
+    "has_sarcasm": false
+  },
+  {
+    "number": 360,
+    "feedback_short": "Отсутствие отслеживания курьера на карте",
+    "category": "UX/UI",
+    "sentiment": "Негативный",
+    "problem_summary": "Нет стандартной функции трекинга",
+    "has_sarcasm": false
+  },
+  {
+    "number": 361,
+    "feedback_short": "Перепутан заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Снова чужой заказ",
+    "has_sarcasm": false
+  },
+  {
+    "number": 362,
+    "feedback_short": "Разбитые яйца",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Половина коробки разбита",
+    "has_sarcasm": true
+  },
+  {
+    "number": 363,
+    "feedback_short": "Опоздание курьера без извинений",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание, нет извинений",
+    "has_sarcasm": false
+  },
+  {
+    "number": 364,
+    "feedback_short": "Опоздание доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Утренняя доставка приехала к обеду",
+    "has_sarcasm": false
+  },
+  {
+    "number": 365,
+    "feedback_short": "Нет связи с курьером и поддержкой",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Телефон выключен, поддержка не отвечает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 366,
+    "feedback_short": "Перепутан бренд товара",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Подмена бренда воды",
+    "has_sarcasm": false
+  },
+  {
+    "number": 367,
+    "feedback_short": "Недовес количества пакетов",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не хватает одного пакета из заказа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 368,
+    "feedback_short": "Недоброкачественные авокадо",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Перезревшие и черные авокадо",
+    "has_sarcasm": false
+  },
+  {
+    "number": 369,
+    "feedback_short": "Проблема со сдачей у курьера",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер приехал без сдачи и пропал",
+    "has_sarcasm": false
+  },
+  {
+    "number": 370,
+    "feedback_short": "Отмена заказа без объяснений",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Отмена в последний момент",
+    "has_sarcasm": false
+  },
+  {
+    "number": 371,
+    "feedback_short": "Порванная упаковка, рассыпанный товар",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Порванная упаковка крупы",
+    "has_sarcasm": false
+  },
+  {
+    "number": 372,
+    "feedback_short": "Постоянные опоздания",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Системные опоздания",
+    "has_sarcasm": false
+  },
+  {
+    "number": 373,
+    "feedback_short": "Перепутан тип товара",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Замороженная курица вместо охлажденной",
+    "has_sarcasm": false
+  },
+  {
+    "number": 374,
+    "feedback_short": "Курьер заблудился",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер не может найти адрес",
+    "has_sarcasm": false
+  },
+  {
+    "number": 375,
+    "feedback_short": "Неполный заказ",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не хватает масла и сыра",
+    "has_sarcasm": false
+  },
+  {
+    "number": 376,
+    "feedback_short": "Резко негативная оценка доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Ужасная доставка",
+    "has_sarcasm": false
+  },
+  {
+    "number": 377,
+    "feedback_short": "Курьер без маски",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Нарушение санитарных норм",
+    "has_sarcasm": false
+  },
+  {
+    "number": 378,
+    "feedback_short": "Не обновляется статус заказа",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Статус \"собирается\" 3 часа",
+    "has_sarcasm": false
+  },
+  {
+    "number": 379,
+    "feedback_short": "Некорректная доставка",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Пакеты поставлены на грязный пол",
+    "has_sarcasm": false
+  },
+  {
+    "number": 380,
+    "feedback_short": "Заказ не доставлен, деньги списаны, поддержка игнорирует",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Заказ не приехал, списание денег, нет ответа поддержки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 381,
+    "feedback_short": "Подмена товара на более дешевый",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Дорогой сыр заменен на дешевый",
+    "has_sarcasm": false
+  },
+  {
+    "number": 382,
+    "feedback_short": "Опоздание",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Опоздание",
+    "has_sarcasm": false
+  },
+  {
+    "number": 383,
+    "feedback_short": "Забытый товар",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Не положили сметану",
+    "has_sarcasm": false
+  },
+  {
+    "number": 384,
+    "feedback_short": "Требование чаевых",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер требовал чаевые",
+    "has_sarcasm": false
+  },
+  {
+    "number": 385,
+    "feedback_short": "Ошибка этажа доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Заказ доставлен не на тот этаж",
+    "has_sarcasm": false
+  },
+  {
+    "number": 386,
+    "feedback_short": "Порванные пакеты",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Пакеты порвались от тяжести",
+    "has_sarcasm": false
+  },
+  {
+    "number": 387,
+    "feedback_short": "Совместная упаковка продуктов и бытовой химии",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Овощи с бытовой химией в одном пакете",
+    "has_sarcasm": false
+  },
+  {
+    "number": 388,
+    "feedback_short": "Молоко теплое",
+    "category": "Качество продуктов",
+    "sentiment": "Негативный",
+    "problem_summary": "Нарушены условия хранения",
+    "has_sarcasm": false
+  },
+  {
+    "number": 389,
+    "feedback_short": "Курьер не дождался",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Курьер уехал, не дождавшись",
+    "has_sarcasm": false
+  },
+  {
+    "number": 390,
+    "feedback_short": "Критика службы доставки",
+    "category": "Проблема с доставкой",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка - худшая часть сервиса",
+    "has_sarcasm": false
+  },
+  {
+    "number": 391,
+    "feedback_short": "Вылет приложения при оплате",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Не может завершить заказ из-за вылетов",
+    "has_sarcasm": false
+  },
+  {
+    "number": 392,
+    "feedback_short": "Проблемы со входом в аккаунт и восстановлением пароля",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Неверный логин/пароль, сброс не работает",
+    "has_sarcasm": false
+  },
+  {
+    "number": 393,
+    "feedback_short": "Постоянные ошибки 502",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Частые ошибки 502 Bad Gateway",
+    "has_sarcasm": false
+  },
+  {
+    "number": 394,
+    "feedback_short": "Ошибка оплаты по карте",
+    "category": "Техническая проблема",
+    "sentiment": "Негативный",
+    "problem_summary": "Оплата не проходит с нескольких карт",
+    "has_sarcasm": false
+  },
+  {
+    "number": 395,
+    "feedback_short": "Не найден промокод",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод не найден, подозрение на обман",
+    "has_sarcasm": false
+  },
+  {
+    "number": 396,
+    "feedback_short": "Завышенные цены с учетом доставки",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены выше магазинных, доставка платная",
+    "has_sarcasm": false
+  },
+  {
+    "number": 397,
+    "feedback_short": "Благодарность за акцию",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 398,
+    "feedback_short": "Скрытый сервисный сбор",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Непредвиденный сервисный сбор",
+    "has_sarcasm": false
+  },
+  {
+    "number": 399,
+    "feedback_short": "Не сработавший промокод на доставку",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промокод на бесплатную доставку не сработал",
+    "has_sarcasm": false
+  },
+  {
+    "number": 400,
+    "feedback_short": "Завышенные цены на фрукты",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены космические",
+    "has_sarcasm": false
+  },
+  {
+    "number": 401,
+    "feedback_short": "Благодарность за акцию",
+    "category": "Цены и акции",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 402,
+    "feedback_short": "Отмена бесплатной доставки от 2000р",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Доставка стала платной",
+    "has_sarcasm": false
+  },
+  {
+    "number": 403,
+    "feedback_short": "Постоянный рост цен",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Цены растут каждую неделю",
+    "has_sarcasm": false
+  },
+  {
+    "number": 404,
+    "feedback_short": "Не сработавший промокод, молчащая поддержка",
+    "category": "Цены и акции",
+    "sentiment": "Негативный",
+    "problem_summary": "Промик не сработал, нет ответа поддержки",
+    "has_sarcasm": false
+  },
+  {
+    "number": 405,
+    "feedback_short": "Благодарность за помощь в трудной ситуации",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 406,
+    "feedback_short": "Похвала вежливому курьеру",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  },
+  {
+    "number": 407,
+    "feedback_short": "Положительный отзыв о скорости и качестве",
+    "category": "Позитивный фидбэк",
+    "sentiment": "Позитивный",
+    "problem_summary": null,
+    "has_sarcasm": false
+  }
+]
+```
