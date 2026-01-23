@@ -1,0 +1,29 @@
+Age,Income,Purchase,City,Gender,Last_Purchase_Days,Category
+25,450,8500,Moscow,Male,30,Electronics
+34,620,12000,St. Petersburg,Female,12,Clothing
+,580,9500,Kazan,Female,45,Books
+29,510,7000,Moscow,Male,60,Home
+45,800,25000,Novosibirsk,Male,5,Electronics
+31,590,11000,St. Petersburg,Female,18,Clothing
+27,480,,Moscow,Female,90,Beauty
+38,950,18000,Moscow,Male,8,Electronics
+41,720,14500,Kazan,Male,25,Home
+22,380,6000,Rostov,Female,70,Clothing
+33,610,10500,St. Petersburg,Male,14,Books
+26,470,8000,Moscow,Female,35,Beauty
+39,,16000,Novosibirsk,Male,6,Electronics
+47,830,22000,Kazan,Female,10,Clothing
+24,400,5500,Rostov,Female,50,Books
+30,550,9800,Moscow,Male,22,Home
+35,630,13000,St. Petersburg,Female,11,Clothing
+28,500,7200,Moscow,Male,40,Electronics
+44,780,20000,Novosibirsk,Female,7,Home
+32,600,11500,Kazan,Male,19,Clothing
+23,390,6300,Rostov,Female,65,Books
+37,650,14000,St. Petersburg,Male,13,Electronics
+29,520,8700,Moscow,Female,28,Beauty
+40,900,19000,Moscow,Male,4,Electronics
+36,640,12500,Kazan,Female,21,Clothing
+31,590,11000,St. Petersburg,Male,18,Clothing
+150,1200,500000,Moscow,Male,1,Electronics
+5,20,1000,St. Petersburg,Female,999,Books
