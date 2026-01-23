@@ -25,5 +25,3 @@ Age,Income,Purchase,City,Gender,Last_Purchase_Days,Category
 40,900,19000,Moscow,Male,4,Electronics
 36,640,12500,Kazan,Female,21,Clothing
 31,590,11000,St. Petersburg,Male,18,Clothing
-150,1200,500000,Moscow,Male,1,Electronics
-5,20,1000,St. Petersburg,Female,999,Books
